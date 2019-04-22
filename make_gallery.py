@@ -4,6 +4,16 @@ import shutil
 from PIL import Image
 
 
+GITHUB_USERNAME = "wdsrocha"
+GITHUB_REPOSITORY = "wallpapers"
+
+
+def parse_path(file_path):
+    # TODO: handle spaces, parenthesis, unicode, etc. Example of filename that
+    # causes headache: "James Ball & INK Studio - IBM 729 (2560 × 1440)"
+    return file_path
+
+
 def progressbar(it, prefix="", size=60, file=sys.stdout):
     """https://stackoverflow.com/a/34482761/7651928"""
     count = len(it)
@@ -36,8 +46,7 @@ def make_thumbnails_dir(thumbnails_dirname):
 
 
 def to_thumbnail_filename(filename):
-    filename = filename.replace(" ", "%20")
-    return f"thumbnail_{filename}"
+    return f"thumbnail_{parse_path(filename)}"
 
 
 def to_thumbnail(image_path, thumbnail_dirname, thumbnail_size):
@@ -71,12 +80,18 @@ def get_overwrite_warning(md_header_path):
         "[comment]: # (### Make changes to)\n"
         f"[comment]: # (###     {md_header_path})\n"
         "[comment]: # (### instead.)\n"
-        "[comment]: # (###################################################)\n"
-    )
+        "[comment]: # (###################################################)\n")
 
 
 def to_md_section(section_name):
     return f"## {section_name}\n"
+
+
+def get_raw_image_url(image_path):
+    image_path = parse_path(image_path)
+    return (
+        "https://raw.githubusercontent.com/"
+        f"{GITHUB_USERNAME}/{GITHUB_REPOSITORY}/master/{image_path}")
 
 
 def make_md_gallery(md_header_path, md_file_path, image_paths,
@@ -97,7 +112,9 @@ def make_md_gallery(md_header_path, md_file_path, image_paths,
         thumbnail_path = os.path.join(
             thumbnails_dirname,
             to_thumbnail_filename(filename))
-        md_file.write(f"![alt]({thumbnail_path})\n")
+        raw_image_url = get_raw_image_url(image_path)
+        md_file.write("[![{}]({})]({})\n".format(
+            thumbnail_path, thumbnail_path, raw_image_url))
     md_file.close()
 
 
