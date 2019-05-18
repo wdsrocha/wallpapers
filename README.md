@@ -24,14 +24,9 @@ I don't remember from where did I got all of my wallpapers, but most of them wer
 
 It may be usefull if you ever feel like cloning or forking this repository and adding/removing your own wallpapers.
 
-1. [Install pipenv](https://pipenv.readthedocs.io/en/latest/install/)
-2. Run `$ pipenv install; pipenv shell; python make_gallery.py`
+After [installing PIL](https://pillow.readthedocs.io/en/latest/installation.html), just run
 
-If you have trouble installing pipenv, just run the script with
-
-> `$ python3 make_gallery.py`
-
-and manually install any dependencies.
+> `python3 make_gallery.py`
 
 ## Gallery
 
@@ -55,6 +50,7 @@ and manually install any dependencies.
 [![thumbnails/thumbnail_wallroom-1920x1080-bg-920d886.jpg](thumbnails/thumbnail_wallroom-1920x1080-bg-920d886.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallroom-1920x1080-bg-920d886.jpg)
 [![thumbnails/thumbnail_wallroom-5120x2880-bg-7643d83.jpg](thumbnails/thumbnail_wallroom-5120x2880-bg-7643d83.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallroom-5120x2880-bg-7643d83.jpg)
 [![thumbnails/thumbnail_1542750632939.jpg](thumbnails/thumbnail_1542750632939.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1542750632939.jpg)
+[![thumbnails/thumbnail_1556962057101.jpg](thumbnails/thumbnail_1556962057101.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1556962057101.jpg)
 [![thumbnails/thumbnail_1552625639933.png](thumbnails/thumbnail_1552625639933.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552625639933.png)
 [![thumbnails/thumbnail_1552631474864.png](thumbnails/thumbnail_1552631474864.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552631474864.png)
 [![thumbnails/thumbnail_zwanen_RECHT.jpg](thumbnails/thumbnail_zwanen_RECHT.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/zwanen_RECHT.jpg)
@@ -77,6 +73,7 @@ and manually install any dependencies.
 [![thumbnails/thumbnail_wallroom-1920x1080-bg-a1a0aed.jpg](thumbnails/thumbnail_wallroom-1920x1080-bg-a1a0aed.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallroom-1920x1080-bg-a1a0aed.jpg)
 [![thumbnails/thumbnail_1553362514275.png](thumbnails/thumbnail_1553362514275.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553362514275.png)
 [![thumbnails/thumbnail_1555277251104.jpg](thumbnails/thumbnail_1555277251104.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555277251104.jpg)
+[![thumbnails/thumbnail_1556732577713.jpg](thumbnails/thumbnail_1556732577713.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1556732577713.jpg)
 [![thumbnails/thumbnail_red-ring-fantasy-sunset-1366×768.jpg](thumbnails/thumbnail_red-ring-fantasy-sunset-1366×768.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/red-ring-fantasy-sunset-1366×768.jpg)
 [![thumbnails/thumbnail_1552629543887.jpg](thumbnails/thumbnail_1552629543887.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552629543887.jpg)
 [![thumbnails/thumbnail_1551740061897.png](thumbnails/thumbnail_1551740061897.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1551740061897.png)
@@ -168,6 +165,7 @@ and manually install any dependencies.
 [![thumbnails/thumbnail_sans_undertale.jpg](thumbnails/thumbnail_sans_undertale.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/sans_undertale.jpg)
 [![thumbnails/thumbnail_japan1.png](thumbnails/thumbnail_japan1.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/japan1.png)
 [![thumbnails/thumbnail_Google_AMOLED-43b61f69-1572-4af4-ba52-d7d0e2631b6e.jpg](thumbnails/thumbnail_Google_AMOLED-43b61f69-1572-4af4-ba52-d7d0e2631b6e.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Google_AMOLED-43b61f69-1572-4af4-ba52-d7d0e2631b6e.jpg)
+[![thumbnails/thumbnail_underwater_girl.jpg](thumbnails/thumbnail_underwater_girl.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/underwater_girl.jpg)
 [![thumbnails/thumbnail_4K_iPhone_Wallpaper_-bb61f7b4-6c15-4969-b082-ebc01b38427c.jpg](thumbnails/thumbnail_4K_iPhone_Wallpaper_-bb61f7b4-6c15-4969-b082-ebc01b38427c.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/4K_iPhone_Wallpaper_-bb61f7b4-6c15-4969-b082-ebc01b38427c.jpg)
 [![thumbnails/thumbnail_Black_background-4f2eb26c-9d60-3c22-a3a9-f1c9ec25ee4e.jpg](thumbnails/thumbnail_Black_background-4f2eb26c-9d60-3c22-a3a9-f1c9ec25ee4e.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Black_background-4f2eb26c-9d60-3c22-a3a9-f1c9ec25ee4e.jpg)
 [![thumbnails/thumbnail_Bloqueado-16ed1fbe-008a-4310-8aca-7baad5ede46d.jpg](thumbnails/thumbnail_Bloqueado-16ed1fbe-008a-4310-8aca-7baad5ede46d.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Bloqueado-16ed1fbe-008a-4310-8aca-7baad5ede46d.jpg)

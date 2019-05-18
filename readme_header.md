@@ -16,13 +16,8 @@ I don't remember from where did I got all of my wallpapers, but most of them wer
 
 It may be usefull if you ever feel like cloning or forking this repository and adding/removing your own wallpapers.
 
-1. [Install pipenv](https://pipenv.readthedocs.io/en/latest/install/)
-2. Run `$ pipenv install; pipenv shell; python make_gallery.py`
+After [installing PIL](https://pillow.readthedocs.io/en/latest/installation.html), just run
 
-If you have trouble installing pipenv, just run the script with
-
-> `$ python3 make_gallery.py`
-
-and manually install any dependencies.
+> `python3 make_gallery.py`
 
 ## Gallery
