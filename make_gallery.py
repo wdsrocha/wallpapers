@@ -84,7 +84,7 @@ def setup_thumbnails_dir(image_paths, thumbnails_dirname, thumbnail_size):
 
 
 def to_md_section(section_name):
-    return f"### {section_name}\n"
+    return f"## {section_name}\n"
 
 
 def get_raw_image_url(image_path):

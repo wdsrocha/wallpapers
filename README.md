@@ -3,24 +3,21 @@
 [comment]: # (### be overwritten by make_gallery.py!)
 [comment]: # (###################################################)
 
-# Wallpapers
-
 <!--ts-->
-   * [Wallpapers](#wallpapers)
-      * [Gallery](#gallery)
-         * [wallpapers/misc](#wallpapersmisc)
-         * [wallpapers/colors](#wallpaperscolors)
-         * [wallpapers/mobile](#wallpapersmobile)
-      * [Running the gallery generator script](#running-the-gallery-generator-script)
-      * [References](#references)
+   * [Gallery](#gallery)
+      * [wallpapers/misc](#wallpapersmisc)
+      * [wallpapers/colors](#wallpaperscolors)
+      * [wallpapers/mobile](#wallpapersmobile)
+   * [Running the gallery generator script](#running-the-gallery-generator-script)
+   * [References](#references)
 
-<!-- Added by: wdsrocha, at: Sun May 19 04:14:42 -04 2019 -->
+<!-- Added by: wdsrocha, at: Sun May 19 04:29:46 -04 2019 -->
 
 <!--te-->
 
-## Gallery
+# Gallery
 
-### wallpapers/misc
+## wallpapers/misc
 
 [![thumbnails/thumbnail_148930.jpg](thumbnails/thumbnail_148930.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/148930.jpg)
 [![thumbnails/thumbnail_1555277307199.jpg](thumbnails/thumbnail_1555277307199.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555277307199.jpg)
@@ -71,7 +68,7 @@
 [![thumbnails/thumbnail_wallpaper-2293008.jpg](thumbnails/thumbnail_wallpaper-2293008.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallpaper-2293008.jpg)
 [![thumbnails/thumbnail_1549206023248.jpg](thumbnails/thumbnail_1549206023248.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1549206023248.jpg)
 
-### wallpapers/colors
+## wallpapers/colors
 
 [![thumbnails/thumbnail_1554959616007.png](thumbnails/thumbnail_1554959616007.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/colors/1554959616007.png)
 [![thumbnails/thumbnail_1554959177169.png](thumbnails/thumbnail_1554959177169.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/colors/1554959177169.png)
@@ -93,7 +90,7 @@
 [![thumbnails/thumbnail_1554959335922.png](thumbnails/thumbnail_1554959335922.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/colors/1554959335922.png)
 [![thumbnails/thumbnail_1554959647027.png](thumbnails/thumbnail_1554959647027.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/colors/1554959647027.png)
 
-### wallpapers/mobile
+## wallpapers/mobile
 
 [![thumbnails/thumbnail_Amoled_Retro-1d603cb2-9ab3-4fad-b5c0-d7f854dca38f.jpg](thumbnails/thumbnail_Amoled_Retro-1d603cb2-9ab3-4fad-b5c0-d7f854dca38f.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Amoled_Retro-1d603cb2-9ab3-4fad-b5c0-d7f854dca38f.jpg)
 [![thumbnails/thumbnail_Amoled_Armor-1407ad36-2351-3651-b84d-4a1a8f5f84c5.jpg](thumbnails/thumbnail_Amoled_Armor-1407ad36-2351-3651-b84d-4a1a8f5f84c5.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Amoled_Armor-1407ad36-2351-3651-b84d-4a1a8f5f84c5.jpg)
@@ -167,7 +164,7 @@
 [![thumbnails/thumbnail_ibm_729_mobile.jpg](thumbnails/thumbnail_ibm_729_mobile.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/ibm_729_mobile.jpg)
 [![thumbnails/thumbnail_Python_Logo-5b4e1d37-ca16-4bb3-91fa-c832f9bfefc5.jpg](thumbnails/thumbnail_Python_Logo-5b4e1d37-ca16-4bb3-91fa-c832f9bfefc5.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Python_Logo-5b4e1d37-ca16-4bb3-91fa-c832f9bfefc5.jpg)
 
-## Running the gallery generator script
+# Running the gallery generator script
 
 It may be usefull if you ever feel like cloning or forking this repository and adding/removing your own wallpapers.
 
@@ -176,7 +173,7 @@ After [installing PIL](https://pillow.readthedocs.io/en/latest/installation.html
 > `chmod +x gh-md-toc`  
 > `python3 make_gallery.py`
 
-## References
+# References
 
 I don't remember from where did I got all of my wallpapers, but most of them were downloaded from the following sources:
 

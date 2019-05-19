@@ -1,6 +1,4 @@
-# Wallpapers
-
 <!--ts-->
 <!--te-->
 
-## Gallery
+# Gallery
