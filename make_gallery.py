@@ -1,7 +1,11 @@
-import sys
 import os
 import shutil
-from PIL import Image
+import sys
+
+try:
+    from PIL import Image
+except ImportError as error:
+    print(error.msg)
 
 
 GITHUB_USERNAME = "wdsrocha"
@@ -37,12 +41,12 @@ def progressbar(it, prefix="", size=60, file=sys.stdout):
 
 
 def get_all_file_paths(top_dirname):
-    # TODO: refactor to get only image paths
     file_paths = []
     for dirname, _, filenames in os.walk(top_dirname):
         for filename in filenames:
-            file_path = os.path.join(dirname, filename)
-            file_paths.append(file_path)
+            if filename.lower().endswith(IMAGE_EXTENSIONS):
+                file_path = os.path.join(dirname, filename)
+                file_paths.append(file_path)
     return file_paths
 
 
