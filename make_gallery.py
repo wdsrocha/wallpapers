@@ -64,6 +64,7 @@ def to_thumbnail(image_path, thumbnail_dirname, thumbnail_size):
     thumbnail_filename = to_thumbnail_filename(filename)
     thumbnail_path = os.path.join(thumbnail_dirname, thumbnail_filename)
     im = Image.open(image_path)
+    im = im.convert("RGB")
     im.thumbnail(thumbnail_size, Image.ANTIALIAS)
     im.save(thumbnail_path)
 

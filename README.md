@@ -11,7 +11,7 @@
    * [Running the gallery generator script](#running-the-gallery-generator-script)
    * [References](#references)
 
-<!-- Added by: wdsrocha, at: Sun May 19 04:29:46 -04 2019 -->
+<!-- Added by: wdsrocha, at: Sun May 26 03:24:24 -04 2019 -->
 
 <!--te-->
 
@@ -21,16 +21,23 @@
 
 [![thumbnails/thumbnail_148930.jpg](thumbnails/thumbnail_148930.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/148930.jpg)
 [![thumbnails/thumbnail_1555277307199.jpg](thumbnails/thumbnail_1555277307199.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555277307199.jpg)
+[![thumbnails/thumbnail_minimalist_holw_2560x1600.jpg](thumbnails/thumbnail_minimalist_holw_2560x1600.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_holw_2560x1600.jpg)
 [![thumbnails/thumbnail_44765.jpg](thumbnails/thumbnail_44765.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/44765.jpg)
 [![thumbnails/thumbnail_FVqGQg7.jpg](thumbnails/thumbnail_FVqGQg7.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/FVqGQg7.jpg)
 [![thumbnails/thumbnail_1493223782315.jpg](thumbnails/thumbnail_1493223782315.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1493223782315.jpg)
+[![thumbnails/thumbnail_minimalist_tetris_game_videogames_2560x1600.jpg](thumbnails/thumbnail_minimalist_tetris_game_videogames_2560x1600.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_tetris_game_videogames_2560x1600.jpg)
 [![thumbnails/thumbnail_1554607674422.jpg](thumbnails/thumbnail_1554607674422.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1554607674422.jpg)
 [![thumbnails/thumbnail_1553829504111.png](thumbnails/thumbnail_1553829504111.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553829504111.png)
 [![thumbnails/thumbnail_JoNHc6K.jpg](thumbnails/thumbnail_JoNHc6K.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/JoNHc6K.jpg)
+[![thumbnails/thumbnail_minimalist_baloon_color_2880x1800.jpg](thumbnails/thumbnail_minimalist_baloon_color_2880x1800.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_baloon_color_2880x1800.jpg)
+[![thumbnails/thumbnail_STAR_WARS_FORCE_AWAKENS_sci_fi_futuristic_disney_1star_wars_force_awakens_action_adventure_warrior_8000x4440.jpg](thumbnails/thumbnail_STAR_WARS_FORCE_AWAKENS_sci_fi_futuristic_disney_1star_wars_force_awakens_action_adventure_warrior_8000x4440.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/STAR_WARS_FORCE_AWAKENS_sci_fi_futuristic_disney_1star_wars_force_awakens_action_adventure_warrior_8000x4440.jpg)
 [![thumbnails/thumbnail_1554654656770.jpg](thumbnails/thumbnail_1554654656770.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1554654656770.jpg)
 [![thumbnails/thumbnail_1552624807476.png](thumbnails/thumbnail_1552624807476.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552624807476.png)
 [![thumbnails/thumbnail_10120.jpg](thumbnails/thumbnail_10120.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/10120.jpg)
 [![thumbnails/thumbnail_1543961370380.png](thumbnails/thumbnail_1543961370380.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1543961370380.png)
+[![thumbnails/thumbnail_Smoking_star_wars_lightsabers_darth_vader_cigarettes_black_background_1920x1200.jpg](thumbnails/thumbnail_Smoking_star_wars_lightsabers_darth_vader_cigarettes_black_background_1920x1200.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/Smoking_star_wars_lightsabers_darth_vader_cigarettes_black_background_1920x1200.jpg)
+[![thumbnails/thumbnail_linux_gnu_red_systems_computer_1920x1200.jpg](thumbnails/thumbnail_linux_gnu_red_systems_computer_1920x1200.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/linux_gnu_red_systems_computer_1920x1200.jpg)
+[![thumbnails/thumbnail_STAR_WARS_FORCE_AWAKENS_sci_fi_action_adventure_disney_1star_wars_force_awakens_space_spaceship_4509x2396.jpg](thumbnails/thumbnail_STAR_WARS_FORCE_AWAKENS_sci_fi_action_adventure_disney_1star_wars_force_awakens_space_spaceship_4509x2396.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/STAR_WARS_FORCE_AWAKENS_sci_fi_action_adventure_disney_1star_wars_force_awakens_space_spaceship_4509x2396.jpg)
 [![thumbnails/thumbnail_1553829133460.jpg](thumbnails/thumbnail_1553829133460.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553829133460.jpg)
 [![thumbnails/thumbnail_1549206377172.jpg](thumbnails/thumbnail_1549206377172.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1549206377172.jpg)
 [![thumbnails/thumbnail_1552629700647.png](thumbnails/thumbnail_1552629700647.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552629700647.png)
@@ -42,6 +49,7 @@
 [![thumbnails/thumbnail_1552631474864.png](thumbnails/thumbnail_1552631474864.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552631474864.png)
 [![thumbnails/thumbnail_zwanen_RECHT.jpg](thumbnails/thumbnail_zwanen_RECHT.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/zwanen_RECHT.jpg)
 [![thumbnails/thumbnail_bence-boros-253214-unsplash.jpg](thumbnails/thumbnail_bence-boros-253214-unsplash.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/bence-boros-253214-unsplash.jpg)
+[![thumbnails/thumbnail_Engine_Diagram_BW_Black_aircraft_airplane_3244x1900.jpg](thumbnails/thumbnail_Engine_Diagram_BW_Black_aircraft_airplane_3244x1900.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/Engine_Diagram_BW_Black_aircraft_airplane_3244x1900.jpg)
 [![thumbnails/thumbnail_galaxy-2-1366×768.jpg](thumbnails/thumbnail_galaxy-2-1366×768.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/galaxy-2-1366×768.jpg)
 [![thumbnails/thumbnail_fEYcOJA.jpg](thumbnails/thumbnail_fEYcOJA.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/fEYcOJA.jpg)
 [![thumbnails/thumbnail_space-and-mountains-1366×768.jpg](thumbnails/thumbnail_space-and-mountains-1366×768.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/space-and-mountains-1366×768.jpg)
@@ -51,9 +59,12 @@
 [![thumbnails/thumbnail_1554581386892.png](thumbnails/thumbnail_1554581386892.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1554581386892.png)
 [![thumbnails/thumbnail_1553829437709.png](thumbnails/thumbnail_1553829437709.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553829437709.png)
 [![thumbnails/thumbnail_148928.jpg](thumbnails/thumbnail_148928.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/148928.jpg)
+[![thumbnails/thumbnail_Star_Wars_stormtrooper_1920x1080.jpg](thumbnails/thumbnail_Star_Wars_stormtrooper_1920x1080.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/Star_Wars_stormtrooper_1920x1080.jpg)
 [![thumbnails/thumbnail_1555207092152.png](thumbnails/thumbnail_1555207092152.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555207092152.png)
 [![thumbnails/thumbnail_1553619664373.png](thumbnails/thumbnail_1553619664373.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553619664373.png)
 [![thumbnails/thumbnail_1542227968965.jpg](thumbnails/thumbnail_1542227968965.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1542227968965.jpg)
+[![thumbnails/thumbnail_GNU_Linux_2000x1250.jpg](thumbnails/thumbnail_GNU_Linux_2000x1250.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/GNU_Linux_2000x1250.jpg)
+[![thumbnails/thumbnail_aircraft_minimalistic_wall_humor_imagination_paper_plane_1920x1080.jpg](thumbnails/thumbnail_aircraft_minimalistic_wall_humor_imagination_paper_plane_1920x1080.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/aircraft_minimalistic_wall_humor_imagination_paper_plane_1920x1080.jpg)
 [![thumbnails/thumbnail_japanese-crosswalk-by-arsenixc-1366×768.jpg](thumbnails/thumbnail_japanese-crosswalk-by-arsenixc-1366×768.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/japanese-crosswalk-by-arsenixc-1366×768.jpg)
 [![thumbnails/thumbnail_1503860248112.jpg](thumbnails/thumbnail_1503860248112.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1503860248112.jpg)
 [![thumbnails/thumbnail_1554457320399.jpg](thumbnails/thumbnail_1554457320399.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1554457320399.jpg)
@@ -61,8 +72,10 @@
 [![thumbnails/thumbnail_1553362514275.png](thumbnails/thumbnail_1553362514275.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553362514275.png)
 [![thumbnails/thumbnail_1555277251104.jpg](thumbnails/thumbnail_1555277251104.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555277251104.jpg)
 [![thumbnails/thumbnail_1556732577713.jpg](thumbnails/thumbnail_1556732577713.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1556732577713.jpg)
+[![thumbnails/thumbnail_minimalistic_cassette_2560x1600.jpg](thumbnails/thumbnail_minimalistic_cassette_2560x1600.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalistic_cassette_2560x1600.jpg)
 [![thumbnails/thumbnail_red-ring-fantasy-sunset-1366×768.jpg](thumbnails/thumbnail_red-ring-fantasy-sunset-1366×768.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/red-ring-fantasy-sunset-1366×768.jpg)
 [![thumbnails/thumbnail_1552629543887.jpg](thumbnails/thumbnail_1552629543887.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552629543887.jpg)
+[![thumbnails/thumbnail_Clouds_minimalistic_binary_storage_2560x1600.jpg](thumbnails/thumbnail_Clouds_minimalistic_binary_storage_2560x1600.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/Clouds_minimalistic_binary_storage_2560x1600.jpg)
 [![thumbnails/thumbnail_1551740061897.png](thumbnails/thumbnail_1551740061897.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1551740061897.png)
 [![thumbnails/thumbnail_1555822534506.jpg](thumbnails/thumbnail_1555822534506.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555822534506.jpg)
 [![thumbnails/thumbnail_wallpaper-2293008.jpg](thumbnails/thumbnail_wallpaper-2293008.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallpaper-2293008.jpg)
@@ -179,6 +192,7 @@ I don't remember from where did I got all of my wallpapers, but most of them wer
 
 - [/wg/](http://boards.4chan.org/wg/catalog)
 - [wallroom](https://wallroom.io/)
+- [wallpaper up](https://www.wallpaperup.com/)
 - [zedge](https://www.zedge.net/) (mobile)
 - [jonascarpay/Wallpapers](https://github.com/jonascarpay/Wallpapers)
 - [LukeSmithxyz/wallpapers](https://github.com/LukeSmithxyz/wallpapers)
