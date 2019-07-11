@@ -13,6 +13,7 @@ I don't remember from where did I got all of my wallpapers, but most of them wer
 
 - [/wg/](http://boards.4chan.org/wg/catalog)
 - [wallroom](https://wallroom.io/)
+- [wallpaper up](https://www.wallpaperup.com/)
 - [zedge](https://www.zedge.net/) (mobile)
 - [jonascarpay/Wallpapers](https://github.com/jonascarpay/Wallpapers)
 - [LukeSmithxyz/wallpapers](https://github.com/LukeSmithxyz/wallpapers)
