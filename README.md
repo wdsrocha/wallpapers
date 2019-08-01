@@ -12,7 +12,7 @@
    * [Running the gallery generator script](#running-the-gallery-generator-script)
    * [References](#references)
 
-<!-- Added by: wdsrocha, at: Thu Jul 11 07:58:33 -04 2019 -->
+<!-- Added by: wdsrocha, at: Thu Aug  1 10:48:30 -04 2019 -->
 
 <!--te-->
 
@@ -97,6 +97,7 @@
 [![thumbnails/thumbnail_flyff.jpg](thumbnails/thumbnail_flyff.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/flyff.jpg)
 [![thumbnails/thumbnail_1555863515345.png](thumbnails/thumbnail_1555863515345.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555863515345.png)
 [![thumbnails/thumbnail_the_elders_scrolls_v_skyrim_classic.jpg](thumbnails/thumbnail_the_elders_scrolls_v_skyrim_classic.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/the_elders_scrolls_v_skyrim_classic.jpg)
+[![thumbnails/thumbnail_gnu_01.png](thumbnails/thumbnail_gnu_01.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu_01.png)
 [![thumbnails/thumbnail_1555277307199.jpg](thumbnails/thumbnail_1555277307199.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1555277307199.jpg)
 [![thumbnails/thumbnail_ilya_kuvshinov_02.png](thumbnails/thumbnail_ilya_kuvshinov_02.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/ilya_kuvshinov_02.png)
 [![thumbnails/thumbnail_space_and_mountains.jpg](thumbnails/thumbnail_space_and_mountains.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/space_and_mountains.jpg)
@@ -112,11 +113,12 @@
 [![thumbnails/thumbnail_nature_00.jpg](thumbnails/thumbnail_nature_00.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/nature_00.jpg)
 [![thumbnails/thumbnail_falling_airplane.jpg](thumbnails/thumbnail_falling_airplane.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/falling_airplane.jpg)
 [![thumbnails/thumbnail_44765.jpg](thumbnails/thumbnail_44765.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/44765.jpg)
-[![thumbnails/thumbnail_gnu.jpg](thumbnails/thumbnail_gnu.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu.jpg)
 [![thumbnails/thumbnail_ilya_kuvshinov_00.png](thumbnails/thumbnail_ilya_kuvshinov_00.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/ilya_kuvshinov_00.png)
 [![thumbnails/thumbnail_airplane_engine_diagram.jpg](thumbnails/thumbnail_airplane_engine_diagram.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/airplane_engine_diagram.jpg)
 [![thumbnails/thumbnail_shingeki_no_kyojin_s3e21_2.png](thumbnails/thumbnail_shingeki_no_kyojin_s3e21_2.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/shingeki_no_kyojin_s3e21_2.png)
+[![thumbnails/thumbnail_gnu_linux_yellow.png](thumbnails/thumbnail_gnu_linux_yellow.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu_linux_yellow.png)
 [![thumbnails/thumbnail_1553829133460.jpg](thumbnails/thumbnail_1553829133460.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553829133460.jpg)
+[![thumbnails/thumbnail_gnu_00.jpg](thumbnails/thumbnail_gnu_00.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu_00.jpg)
 [![thumbnails/thumbnail_1553829437709.png](thumbnails/thumbnail_1553829437709.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553829437709.png)
 [![thumbnails/thumbnail_star_wars_01.jpg](thumbnails/thumbnail_star_wars_01.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/star_wars_01.jpg)
 [![thumbnails/thumbnail_minimalist_paper_plane_and_real_plane.jpg](thumbnails/thumbnail_minimalist_paper_plane_and_real_plane.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_paper_plane_and_real_plane.jpg)
@@ -203,8 +205,11 @@ It may be usefull if you ever feel like cloning or forking this repository and a
 
 After [installing PIL](https://pillow.readthedocs.io/en/latest/installation.html), just run
 
-> `chmod +x gh-md-toc`  
-> `python3 make_gallery.py`
+> `chmod +x gh-md-toc && python3 make_gallery.py`
+
+Or
+
+> `chmod +x gh-md-toc && ./make_gallery.py`
 
 # References
 

@@ -4,8 +4,11 @@ It may be usefull if you ever feel like cloning or forking this repository and a
 
 After [installing PIL](https://pillow.readthedocs.io/en/latest/installation.html), just run
 
-> `chmod +x gh-md-toc`  
-> `python3 make_gallery.py`
+> `chmod +x gh-md-toc && python3 make_gallery.py`
+
+Or
+
+> `chmod +x gh-md-toc && ./make_gallery.py`
 
 # References
 
