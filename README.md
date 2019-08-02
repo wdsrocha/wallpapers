@@ -12,7 +12,7 @@
    * [Running the gallery generator script](#running-the-gallery-generator-script)
    * [References](#references)
 
-<!-- Added by: wdsrocha, at: Thu Aug  1 10:48:30 -04 2019 -->
+<!-- Added by: wdsrocha, at: Fri Aug  2 09:52:04 -04 2019 -->
 
 <!--te-->
 
@@ -161,6 +161,7 @@
 [![thumbnails/thumbnail_galaxy.jpg](thumbnails/thumbnail_galaxy.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/galaxy.jpg)
 [![thumbnails/thumbnail_japanese_crosswalk_art_by_arsenixc.jpg](thumbnails/thumbnail_japanese_crosswalk_art_by_arsenixc.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/japanese_crosswalk_art_by_arsenixc.jpg)
 [![thumbnails/thumbnail_gnu_linux_ying_yang.jpg](thumbnails/thumbnail_gnu_linux_ying_yang.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu_linux_ying_yang.jpg)
+[![thumbnails/thumbnail_dark-wood.jpg](thumbnails/thumbnail_dark-wood.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/dark-wood.jpg)
 [![thumbnails/thumbnail_1552625639933.png](thumbnails/thumbnail_1552625639933.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552625639933.png)
 [![thumbnails/thumbnail_minimalist_balloon.jpg](thumbnails/thumbnail_minimalist_balloon.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_balloon.jpg)
 [![thumbnails/thumbnail_minimalist_bit_cloud.jpg](thumbnails/thumbnail_minimalist_bit_cloud.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_bit_cloud.jpg)
