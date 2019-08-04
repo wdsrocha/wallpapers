@@ -12,7 +12,7 @@
    * [Running the gallery generator script](#running-the-gallery-generator-script)
    * [References](#references)
 
-<!-- Added by: wdsrocha, at: Sun Aug  4 15:05:40 -04 2019 -->
+<!-- Added by: wdsrocha, at: Sun Aug  4 15:56:42 -04 2019 -->
 
 <!--te-->
 
@@ -172,13 +172,13 @@
 [![thumbnails/thumbnail_1542310820544.jpg](thumbnails/thumbnail_1542310820544.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/1542310820544.jpg)
 [![thumbnails/thumbnail_google_amoled.jpg](thumbnails/thumbnail_google_amoled.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/google_amoled.jpg)
 [![thumbnails/thumbnail_LOADING_AmoLED-07bb708a-6104-49a5-b813-4a434a7ddb80.jpg](thumbnails/thumbnail_LOADING_AmoLED-07bb708a-6104-49a5-b813-4a434a7ddb80.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/LOADING_AmoLED-07bb708a-6104-49a5-b813-4a434a7ddb80.jpg)
+[![thumbnails/thumbnail_purple_cyberpunk.jpg](thumbnails/thumbnail_purple_cyberpunk.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/purple_cyberpunk.jpg)
 [![thumbnails/thumbnail_1552252923435.jpg](thumbnails/thumbnail_1552252923435.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/1552252923435.jpg)
 [![thumbnails/thumbnail_1543934054205.png](thumbnails/thumbnail_1543934054205.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/1543934054205.png)
 [![thumbnails/thumbnail_Undertale_Dog-53d36e5f-be89-43f6-9922-6cbc7ade8aec.jpg](thumbnails/thumbnail_Undertale_Dog-53d36e5f-be89-43f6-9922-6cbc7ade8aec.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Undertale_Dog-53d36e5f-be89-43f6-9922-6cbc7ade8aec.jpg)
 [![thumbnails/thumbnail_1552961376596.png](thumbnails/thumbnail_1552961376596.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/1552961376596.png)
 [![thumbnails/thumbnail_1540747873203.jpg](thumbnails/thumbnail_1540747873203.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/1540747873203.jpg)
 [![thumbnails/thumbnail_Coffe_Mug-b47ec245-295f-3157-a711-ceca7b439111.jpg](thumbnails/thumbnail_Coffe_Mug-b47ec245-295f-3157-a711-ceca7b439111.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Coffe_Mug-b47ec245-295f-3157-a711-ceca7b439111.jpg)
-[![thumbnails/thumbnail_cyberpunk.jpg](thumbnails/thumbnail_cyberpunk.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/cyberpunk.jpg)
 [![thumbnails/thumbnail_daniel-olah-432079-unsplash.jpg](thumbnails/thumbnail_daniel-olah-432079-unsplash.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/daniel-olah-432079-unsplash.jpg)
 [![thumbnails/thumbnail_Edge_colorful-92f18779-b079-4038-9932-1db378fad053.jpg](thumbnails/thumbnail_Edge_colorful-92f18779-b079-4038-9932-1db378fad053.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/Edge_colorful-92f18779-b079-4038-9932-1db378fad053.jpg)
 [![thumbnails/thumbnail_amoled_mountain.jpg](thumbnails/thumbnail_amoled_mountain.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/mobile/amoled_mountain.jpg)

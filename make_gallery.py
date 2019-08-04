@@ -64,6 +64,13 @@ def to_thumbnail(image_path, thumbnail_dirname, thumbnail_size):
     filename = os.path.basename(image_path)
     thumbnail_filename = to_thumbnail_filename(filename)
     thumbnail_path = os.path.join(thumbnail_dirname, thumbnail_filename)
+    # TODO: clone directory structure, so duplicated names can be handled by
+    # the OS.
+    if os.path.exists(thumbnail_path):
+        print(f"The file {thumbnail_path} already exists.", end=" ")
+        print("Make sure there are no duplicated filenames across directories.")
+        print("Exiting with error code 1")
+        sys.exit(1)
     im = Image.open(image_path)
     im = im.convert("RGB")
     im.thumbnail(thumbnail_size, Image.ANTIALIAS)
