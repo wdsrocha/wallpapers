@@ -51,11 +51,6 @@ def get_all_file_paths(top_dirname):
     return file_paths
 
 
-def make_thumbnails_dir(thumbnails_dirname):
-    shutil.rmtree(thumbnails_dirname, ignore_errors=True)
-    os.makedirs(thumbnails_dirname)
-
-
 def to_thumbnail_filename(filename):
     return f"thumbnail_{parse_path(filename)}"
 
@@ -66,11 +61,9 @@ def to_thumbnail(image_path, thumbnail_dirname, thumbnail_size):
     thumbnail_path = os.path.join(thumbnail_dirname, thumbnail_filename)
     # TODO: clone directory structure, so duplicated names can be handled by
     # the OS.
+    # BUG: if two files have the same name, only the first one will appear
     if os.path.exists(thumbnail_path):
-        print(f"The file {thumbnail_path} already exists.", end=" ")
-        print("Make sure there are no duplicated filenames across directories.")
-        print("Exiting with error code 1")
-        sys.exit(1)
+        return
     im = Image.open(image_path)
     im = im.convert("RGB")
     im.thumbnail(thumbnail_size, Image.ANTIALIAS)
@@ -87,7 +80,6 @@ def convert_images_to_thumbnail(image_paths, thumbnails_dirname,
 
 def setup_thumbnails_dir(image_paths, thumbnails_dirname, thumbnail_size):
     # TODO: if dir already exists, ask if user wants to proceed or cancel
-    make_thumbnails_dir(thumbnails_dirname)
     convert_images_to_thumbnail(image_paths, thumbnails_dirname,
                                 thumbnail_size)
 
