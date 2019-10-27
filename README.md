@@ -186,6 +186,7 @@
 [![thumbnails/thumbnail_wallroom-1920x1080-bg-436fad5.jpg](thumbnails/thumbnail_wallroom-1920x1080-bg-436fad5.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallroom-1920x1080-bg-436fad5.jpg)
 [![thumbnails/thumbnail_1552629543887.jpg](thumbnails/thumbnail_1552629543887.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1552629543887.jpg)
 [![thumbnails/thumbnail_galaxy.jpg](thumbnails/thumbnail_galaxy.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/galaxy.jpg)
+[![thumbnails/thumbnail_firewatch.jpg](thumbnails/thumbnail_firewatch.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/firewatch.jpg)
 [![thumbnails/thumbnail_japanese_crosswalk_art_by_arsenixc.jpg](thumbnails/thumbnail_japanese_crosswalk_art_by_arsenixc.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/japanese_crosswalk_art_by_arsenixc.jpg)
 [![thumbnails/thumbnail_gnu_linux_ying_yang.jpg](thumbnails/thumbnail_gnu_linux_ying_yang.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu_linux_ying_yang.jpg)
 [![thumbnails/thumbnail_dark-wood.jpg](thumbnails/thumbnail_dark-wood.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/dark-wood.jpg)
