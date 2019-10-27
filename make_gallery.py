@@ -20,8 +20,6 @@ OVERWRITE_WARNING = (
 
 
 def parse_path(file_path):
-    # TODO: handle spaces, parenthesis, unicode, etc. Example of filename that
-    # causes headache: "James Ball & INK Studio - IBM 729 (2560 × 1440)"
     return file_path
 
 
