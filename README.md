@@ -12,7 +12,7 @@
    * [Running the gallery generator script](#running-the-gallery-generator-script)
    * [References](#references)
 
-<!-- Added by: wdsrocha, at: Sat Oct 26 20:08:36 -04 2019 -->
+
 
 <!--te-->
 
