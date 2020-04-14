@@ -21,3 +21,6 @@ I don't remember from where did I got all of my wallpapers, but most of them wer
 - [jonascarpay/Wallpapers](https://github.com/jonascarpay/Wallpapers)
 - [LukeSmithxyz/wallpapers](https://github.com/LukeSmithxyz/wallpapers)
 - [Wallpaper Abyss](https://wall.alphacoders.com/)
+- [Simple Desktops](http://simpledesktops.com/)
+
+For the color wallpapers, you can generate your own by following the steps described in [this repository](https://github.com/BranislavBajuzik/ColorWallpaper).
