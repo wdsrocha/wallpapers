@@ -158,6 +158,7 @@
 [![thumbnails/thumbnail_labyrinth.png](thumbnails/thumbnail_labyrinth.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/labyrinth.png)
 [![thumbnails/thumbnail_siri.png](thumbnails/thumbnail_siri.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/siri.png)
 [![thumbnails/thumbnail_six.png](thumbnails/thumbnail_six.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/six.png)
+[![thumbnails/thumbnail_undertale.png](thumbnails/thumbnail_undertale.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/undertale.png)
 [![thumbnails/thumbnail_zentree.png](thumbnails/thumbnail_zentree.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/zentree.png)
 [![thumbnails/thumbnail_red_star.png](thumbnails/thumbnail_red_star.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/red_star.png)
 
