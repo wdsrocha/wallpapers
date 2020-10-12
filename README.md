@@ -8,6 +8,7 @@
       * [wallpapers/minimalist_light](#wallpapersminimalist_light)
       * [wallpapers/misc](#wallpapersmisc)
       * [wallpapers/minimalist_dark](#wallpapersminimalist_dark)
+      * [wallpapers/nature](#wallpapersnature)
       * [wallpapers/colors](#wallpaperscolors)
       * [wallpapers/mobile](#wallpapersmobile)
       * [wallpapers/dual](#wallpapersdual)
@@ -66,14 +67,12 @@
 [![thumbnails/thumbnail_fallout_vault_boy.jpg](thumbnails/thumbnail_fallout_vault_boy.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/fallout_vault_boy.jpg)
 [![thumbnails/thumbnail_eevee.png](thumbnails/thumbnail_eevee.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/eevee.png)
 [![thumbnails/thumbnail_1553829133460.jpg](thumbnails/thumbnail_1553829133460.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553829133460.jpg)
-[![thumbnails/thumbnail_nature_00.jpg](thumbnails/thumbnail_nature_00.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/nature_00.jpg)
 [![thumbnails/thumbnail_FVqGQg7.jpg](thumbnails/thumbnail_FVqGQg7.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/FVqGQg7.jpg)
 [![thumbnails/thumbnail_1556962057101.jpg](thumbnails/thumbnail_1556962057101.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1556962057101.jpg)
 [![thumbnails/thumbnail_wallroom-1920x1080-bg-a1a0aed.jpg](thumbnails/thumbnail_wallroom-1920x1080-bg-a1a0aed.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/wallroom-1920x1080-bg-a1a0aed.jpg)
 [![thumbnails/thumbnail_shingeki_no_kyojin_s3e21_1.png](thumbnails/thumbnail_shingeki_no_kyojin_s3e21_1.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/shingeki_no_kyojin_s3e21_1.png)
 [![thumbnails/thumbnail_clouds.jpg](thumbnails/thumbnail_clouds.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/clouds.jpg)
 [![thumbnails/thumbnail_1553619664373.png](thumbnails/thumbnail_1553619664373.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1553619664373.png)
-[![thumbnails/thumbnail_nature_01.jpg](thumbnails/thumbnail_nature_01.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/nature_01.jpg)
 [![thumbnails/thumbnail_abstract_mountains.jpg](thumbnails/thumbnail_abstract_mountains.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/abstract_mountains.jpg)
 [![thumbnails/thumbnail_zelda.jpg](thumbnails/thumbnail_zelda.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/zelda.jpg)
 [![thumbnails/thumbnail_ibm_black_and_white.jpg](thumbnails/thumbnail_ibm_black_and_white.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/ibm_black_and_white.jpg)
@@ -89,6 +88,7 @@
 [![thumbnails/thumbnail_chrono_trigger.jpg](thumbnails/thumbnail_chrono_trigger.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/chrono_trigger.jpg)
 [![thumbnails/thumbnail_minimalist_moon.jpg](thumbnails/thumbnail_minimalist_moon.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_moon.jpg)
 [![thumbnails/thumbnail_1551740061897.png](thumbnails/thumbnail_1551740061897.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1551740061897.png)
+[![thumbnails/thumbnail_vtex.jpg](thumbnails/thumbnail_vtex.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/vtex.jpg)
 [![thumbnails/thumbnail_minimalist_tetris.jpg](thumbnails/thumbnail_minimalist_tetris.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/minimalist_tetris.jpg)
 [![thumbnails/thumbnail_gnu_linux_yellow.png](thumbnails/thumbnail_gnu_linux_yellow.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/gnu_linux_yellow.png)
 [![thumbnails/thumbnail_1554581386892.png](thumbnails/thumbnail_1554581386892.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/misc/1554581386892.png)
@@ -153,6 +153,7 @@
 
 [![thumbnails/thumbnail_piano.jpg](thumbnails/thumbnail_piano.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/piano.jpg)
 [![thumbnails/thumbnail_think_plan_execute_dark.png](thumbnails/thumbnail_think_plan_execute_dark.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/think_plan_execute_dark.png)
+[![thumbnails/thumbnail_tik.png](thumbnails/thumbnail_tik.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/tik.png)
 [![thumbnails/thumbnail_mountains_on_mars.png](thumbnails/thumbnail_mountains_on_mars.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/mountains_on_mars.png)
 [![thumbnails/thumbnail_conwaylife.png](thumbnails/thumbnail_conwaylife.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/conwaylife.png)
 [![thumbnails/thumbnail_labyrinth.png](thumbnails/thumbnail_labyrinth.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/labyrinth.png)
@@ -161,6 +162,12 @@
 [![thumbnails/thumbnail_undertale.png](thumbnails/thumbnail_undertale.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/undertale.png)
 [![thumbnails/thumbnail_zentree.png](thumbnails/thumbnail_zentree.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/zentree.png)
 [![thumbnails/thumbnail_red_star.png](thumbnails/thumbnail_red_star.png)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/minimalist_dark/red_star.png)
+
+## wallpapers/nature
+
+[![thumbnails/thumbnail_nature_00.jpg](thumbnails/thumbnail_nature_00.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/nature/nature_00.jpg)
+[![thumbnails/thumbnail_nature_01.jpg](thumbnails/thumbnail_nature_01.jpg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/nature/nature_01.jpg)
+[![thumbnails/thumbnail_mountains_00.jpeg](thumbnails/thumbnail_mountains_00.jpeg)](https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/nature/mountains_00.jpeg)
 
 ## wallpapers/colors
 
