@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Source: https://github.com/ekalinin/github-markdown-toc
 #
 # Steps:
 #
