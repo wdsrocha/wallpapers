@@ -1,4 +1,4 @@
-# Running the gallery generator script
+## Running the gallery generator script
 
 It may be usefull if you ever feel like cloning or forking this repository and adding/removing your own wallpapers.
 
@@ -10,7 +10,7 @@ Or
 
 > `chmod +x gh-md-toc && ./make_gallery.py`
 
-# References
+## References
 
 I don't remember from where did I got all of my wallpapers, but most of them were downloaded from the following sources:
 

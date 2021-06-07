@@ -83,7 +83,7 @@ def setup_thumbnails_dir(image_paths, thumbnails_dirname, thumbnail_size):
 
 
 def to_md_section(section_name):
-    return f"## {section_name}\n"
+    return f"### {section_name}\n"
 
 
 def get_raw_image_url(image_path):
@@ -101,7 +101,7 @@ def make_md_gallery(md_file_path, image_paths, thumbnails_dirname):
         if image_dirname != last_image_dirname:
             if last_image_dirname:
                 md_file.write("\n")
-            md_file.write(to_md_section(image_dirname))
+            md_file.write(to_md_section(image_dirname.split('/')[1]))
             md_file.write("\n")
             last_image_dirname = image_dirname
         thumbnail_path = os.path.join(
